@@ -32,27 +32,27 @@ equipe mantém-se em constante crescimento.
 
 O que nós oferecemos ao candidato:
 
-    - Flexibilidade para os horários
-    - Espaço para desenvolvimento pessoal
-    - Ambiente de trabalho descontraído
-    - Bolsa de R$ 1200,00 ou R$ 1800,00
-    - Vale alimentação ou vale-refeição
-    - Vale-transporte
+    - Flexibilidade para os horários;
+    - Espaço para desenvolvimento pessoal;
+    - Ambiente de trabalho descontraído;
+    - Bolsa de R$ 1200,00 ou R$ 1800,00;
+    - Vale alimentação ou vale-refeição;
+    - Vale-transporte.
 
 O que nós esperamos do candidato:
 
-    - Proatividade
-    - Que não tenha vergonha de perguntar quando estiver com dúvida
-    - Disponibilidade para trabalho presencial em Porto Alegre
-    - Interesse em aprender coisas novas
-    - Noções básicas de programação
-    - Disponibilidade de 4 ou 6 horas diárias
+    - Proatividade;
+    - Que não tenha vergonha de perguntar quando estiver com dúvida;
+    - Disponibilidade para trabalho presencial em Porto Alegre;
+    - Interesse em aprender coisas novas;
+    - Noções básicas de programação;
+    - Disponibilidade de 4 ou 6 horas diárias.
 
 O que nós consideramos como diferenciais:
 
-    - Experiência com desenvolvimento
-    - Experiência em ambiente Linux
-    - Inglês técnico para leitura
+    - Experiência com desenvolvimento;
+    - Experiência em ambiente Linux;
+    - Inglês técnico para leitura.
 
 Para participar neste processo seletivo você deve preencher o formulário
 disponível [neste endereço](https://forms.gle/idP18sEwMEesFDqw9). Este processo
