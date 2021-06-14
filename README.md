@@ -3,7 +3,7 @@
 ## A Dinamize
 
 A Dinamize é uma empresa de tecnologia com sede em Porto Alegre (RS), 
-com atuação nacional com suas 7 filiais e também internacional com mais 4 
+com atuação nacional através de 7 filiais e também internacional com mais 4 
 escritórios ao redor do mundo. Desenvolvemos uma plataforma de comunicação 
 voltada para marketing digital que aproxima empresas e consumidores de forma 
 a estreitar relacionamentos e alavancar novos negócios. Atualmente atendemos mais
